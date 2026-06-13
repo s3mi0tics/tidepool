@@ -4,7 +4,7 @@
 
 Initial release.
 
-- Full Tidepool palette (18 colors) across the workbench UI.
+- Two variants — **Tidepool** (lighter grays) and **Tidepool Deep** (darker grays).
 - Restrained syntax mapping: a blue family for structure, a green family for data.
-- Errors, warnings, and git decorations on the warm side — never on code tokens.
+- Built for red-green color blindness; core syntax colors clear WCAG AA against the editor background, and errors use a warm orange rather than pure red.
 - Integrated terminal mapped to the complete 16-color ANSI set.

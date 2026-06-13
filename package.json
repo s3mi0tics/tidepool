@@ -42,6 +42,11 @@
         "label": "Tidepool",
         "uiTheme": "vs-dark",
         "path": "./themes/tidepool-color-theme.json"
+      },
+      {
+        "label": "Tidepool Deep",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tidepool-deep-color-theme.json"
       }
     ]
   }

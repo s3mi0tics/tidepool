@@ -1,0 +1,48 @@
+{
+  "name": "tidepool",
+  "displayName": "Tidepool",
+  "description": "A calm, cool dark theme in greens, teals, and blues - built with red-green color blindness in mind. The editor and integrated terminal share one palette.",
+  "version": "0.1.0",
+  "publisher": "s3mi0tics",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "color theme",
+    "colorblind",
+    "accessible",
+    "teal",
+    "green",
+    "tidepool",
+    "cool",
+    "minimal"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#333333",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/s3mi0tics/tidepool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/s3mi0tics/tidepool/issues"
+  },
+  "homepage": "https://github.com/s3mi0tics/tidepool#readme",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tidepool",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tidepool-color-theme.json"
+      }
+    ]
+  }
+}

@@ -2,7 +2,7 @@
   "name": "tidepool",
   "displayName": "Tidepool Color Theme",
   "description": "A calm, cool dark theme in greens, teals, and blues - built with red-green color blindness in mind. The editor and integrated terminal share one palette.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "s3mi0tics",
   "license": "MIT",
   "engines": {

@@ -62,5 +62,3 @@ MIT © 2026 Colby Kauk
 ---
 
 Designed and built with the help of [Claude](https://claude.ai).
-
-Building or publishing Tidepool? See [DEVELOPMENT.md](https://github.com/s3mi0tics/tidepool/blob/main/DEVELOPMENT.md).
